@@ -1,46 +1,64 @@
-<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">Full Stack Developer | Building Agentic AI Systems |Problem Solver</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KAIMAN-FIRMANSYAH/KAIMAN-FIRMANSYAH/master/assets/gif/coding.gif" width="400" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaditya12&label=Profile%20views&color=0e75b6&style=flat" alt="coderaditya12" /> </p>
+<h2 align="center">Hi there 👋, I'm Aditya Gupta</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderaditya12" alt="coderaditya12" /></a> </p>
+<div align="center">
+  <b>Full Stack Developer | Building Agentic AI Systems | Microsoft Student Ambassador</b>
+  <br /><br />
+  
+  🌱 I’m currently learning <b>Advanced Backend & System Design</b><br />
+  ❓ Ask me about <b>FastAPI, LangChain, & Agentic Workflows</b><br />
+  ⚡ Fun fact: <b>I use Arch Linux (btw)</b>
+</div>
 
-- 🔭 I’m currently working on [Open Source Compass (Agentic System)](https://opensource-compass.vercel.app/)
+<br />
 
-- 🌱 I’m currently learning **Advanced Backend & System Design**
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-- 👯 I’m looking to collaborate on **Open Source Tooling & Python Projects**
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br />
 
-- 👨‍💻 All of my projects are available at [https://github.com/coderAditya12](https://github.com/coderAditya12)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br />
 
-- 💬 Ask me about **FastAPI, LangChain, & Backend Architecture**
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br />
 
-- 📫 How to reach me **realadityagupta2@gmail.com**
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/0/d/1JiA5lMCQj8S1LE9l_JTUs8RDHz7UWdm1/view?usp=drivesdk&pli=1](https://drive.google.com/file/u/0/d/1JiA5lMCQj8S1LE9l_JTUs8RDHz7UWdm1/view?usp=drivesdk&pli=1)
+<br />
 
-- ⚡ Fun fact **I use Arch Linux (btw)**
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderAditya12&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=coderAditya12&&style=flat-square" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-gupta-402ba4290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-gupta-402ba4290/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adi_gupta123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adi_gupta123/" height="30" width="40" /></a>
-</p>
-## 🛠️ Tech Stack & Tools
+<br />
 
-### 🧠 AI & Agentic Systems
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### ⚙️ Backend & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🖥️ Workflow & OS
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<h3 align="center">📫 Connect with Me</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/aditya-gupta-402ba4290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:realadityagupta2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
